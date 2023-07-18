@@ -1,0 +1,32 @@
+{
+	"drinks": [
+		{
+			"drinkName": "test cocktail 1",
+			"drinkDescription": "Test Description",
+			"ingredients": [
+				"Cognac",
+				"Tawny Port",
+				"Maraschino",
+				"Sugar Syrup",
+				"Mint Leaf",
+				"test1"
+			],
+			"instructions": "Here is how to make the drink"
+		},
+		{
+			"drinkName": "test cocktail 2",
+			"drinkDescription": "Test Description 2",
+			"ingredients": [
+				"test ingredient 2",
+				"Tawny Port",
+				"Maraschino",
+				"Sugar Syrup",
+				"Mint Leaf",
+				"test1",
+				"test2"
+			],
+			"instructions": "Here is how to make the drink 2"
+		}
+	]
+	
+}
